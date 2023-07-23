@@ -1,0 +1,50 @@
+.sixth-inner-cont{
+   margin-top:100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 100px;
+
+}
+.sixth-inner-cont > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.sixth-inner-cont >h2{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 32px;
+margin-top: 0px;
+margin-bottom:0px;
+/* identical to box height, or 67% */
+
+text-align: center;
+
+color: #000000;
+}
+
+.sixth-inner-cont >h3{
+    
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+
+text-align: center;
+
+color: #000000;
+}
+
+.sixth-btn{
+
+ margin-left: auto;
+    margin-right: auto;
+}

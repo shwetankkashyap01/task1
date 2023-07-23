@@ -1,0 +1,87 @@
+.Parent{
+    position:relative;
+width: 665px;
+height: 406px;
+left: 122px;
+top: 3.75rem;
+
+
+}
+.Header-container > p{
+    
+/*width: 665px;
+height: 164px;
+left: 122px;
+top: 200px;*/
+
+font-family: 'Manrope', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 3.5rem;
+line-height: 1rem;
+padding :0 0;
+/* or 128% */
+
+
+color: black;
+}
+
+.desc >p{
+  
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 36px;
+/* or 180% */
+
+letter-spacing: 0.2px;
+
+color: #000000;
+}
+
+.MailInputChild{
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    background-color:white;
+    width: 31.38rem;
+    height: 4.56rem;
+}
+
+.MailInput {
+    position: absolute;
+    top: 20.81rem;
+    left: 0;
+    width: 31.38rem;
+    height: 4.56rem;
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.4);
+  }
+.mail{
+    position: absolute;
+    top: 1.19rem;
+    left: 2rem;
+    letter-spacing: 0.2px;
+    line-height: 2.25rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  
+}
+.text {
+    margin-right: 190px; /* Adjust the margin as needed */
+   /* margin-bottom: 15px;*/
+  }
+
+
+/*.mainbtn{
+  margin-top: 0px !important;
+  padding-top: 15px !important;
+  padding-bottom: 8px !important;
+   position: inherit;
+
+}*/
+  
+  

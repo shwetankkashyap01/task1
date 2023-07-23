@@ -1,0 +1,57 @@
+.fifth-cont{
+ 
+left: 0%;
+right: 0%;
+top: 66.9%;
+bottom: 21.84%;
+width: 1440px;
+/* Text / Gray 100 */
+
+background: #F4F5F7;
+}
+
+.fifth-cont >h2{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+/* identical to box height, or 133% */
+
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+
+/* Text / Gray 900 */
+padding-top:50px;
+color: #18191F;
+margin-bottom:0px;
+}
+
+.fifth-cont >h3{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+margin-top:0px;
+text-align: center;
+font-feature-settings: 'salt' on, 'liga' off;
+
+/* Text / Gray 900 */
+
+color: #18191F;
+}
+
+.fifth-cont >img{
+    width: 946px;
+height: 336px;
+
+
+/* Inside auto layout */
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 65%;
+}

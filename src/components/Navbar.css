@@ -1,0 +1,45 @@
+.main-nav {
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+    height: 50px;
+  
+    padding: 0 6.5rem;
+    gap:40px;
+    
+
+}
+  
+  .menu-links ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    
+
+  }
+  
+  .menu-links ul li {
+    margin-right: 50px;
+  }
+  
+  .menu-links ul li a {
+    text-decoration: none;
+    /*color: #333;*/
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+color: #000000;
+
+  }
+  
+  .button-container {
+    align-items: flex-start;
+  }
+  

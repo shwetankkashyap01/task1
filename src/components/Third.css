@@ -1,0 +1,79 @@
+.third-cont{
+    background-color: #F84646;
+    width: 1440px;
+    height: 376px;
+    left: 0px;
+    top: 1855px;
+    margin-top:70px;
+}
+
+.third-cont > h2{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 64px;
+    /* identical to box height, or 133% */
+    padding-top: 80px;
+    margin-bottom: 0px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.third-cont > h3{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+margin-top: 0px;
+/* identical to box height, or 178% */
+
+text-align: center;
+font-feature-settings: 'liga' off;
+
+/* Default / White */
+
+color: #FFFFFF;
+
+}
+
+.third-span{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 31px;
+color: #FFFFFF;
+padding-left:40px;
+padding-right: 40px;
+}
+
+
+.third-cont {
+    text-align: center;
+  }
+  
+  .sub-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .sub-container span {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .sub-container img {
+    width: 30px;
+  }
+
+  .span1{
+    margin-left: 50px;
+  }
+  .span4{
+    margin-right:50px;
+  }

@@ -1,0 +1,63 @@
+.row1{
+    display:flex;
+}
+.image41-cont{
+    margin:100px 100px 100px 0;
+}
+.fourth-cont1{
+margin:100px 100px 100px 100px;
+}
+
+.fourth-cont1 >h1{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 76px;
+color: #2E2E2E;
+margin-top:0px;
+}
+
+.fourth-cont1 >p{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: #808080;
+padding-right: 75px;
+margin-bottom: 50px;
+}
+
+.row2{
+    display:flex;
+}
+
+.image42-cont{
+margin-left:100px;
+}
+
+.fourth-cont2{
+    margin:0px 100px 100px 150px;
+    }
+
+    .fourth-cont2 >h1{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    color: #2E2E2E;
+    margin-top:0px;
+    }
+
+    .fourth-cont2 >p{
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #808080;
+    padding-right: 75px;
+    margin-bottom: 50px;
+    }
